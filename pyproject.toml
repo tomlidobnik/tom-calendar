@@ -1,0 +1,13 @@
+[project]
+name = "tom-calendar"
+version = "0.1.0"
+description = "Wise timetable → SQLite → Google Calendar sync"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-api-python-client",
+    "google-auth-httplib2",
+    "google-auth-oauthlib",
+    "pytz",
+    "python-dateutil",
+]

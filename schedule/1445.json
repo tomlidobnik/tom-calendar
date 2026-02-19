@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "S291",
+    "start_time": "2026-02-27T12:00:00",
+    "end_time": "2026-02-27T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-03-06T12:00:00",
+    "end_time": "2026-03-06T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-03-13T12:00:00",
+    "end_time": "2026-03-13T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-03-20T12:00:00",
+    "end_time": "2026-03-20T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-03-27T12:00:00",
+    "end_time": "2026-03-27T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-04-03T12:00:00",
+    "end_time": "2026-04-03T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-04-10T12:00:00",
+    "end_time": "2026-04-10T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-04-17T12:00:00",
+    "end_time": "2026-04-17T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S291",
+    "start_time": "2026-04-24T12:00:00",
+    "end_time": "2026-04-24T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-02-25T07:00:00",
+    "end_time": "2026-02-25T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-03-04T07:00:00",
+    "end_time": "2026-03-04T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-03-11T07:00:00",
+    "end_time": "2026-03-11T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-03-18T07:00:00",
+    "end_time": "2026-03-18T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-03-25T07:00:00",
+    "end_time": "2026-03-25T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-04-01T07:00:00",
+    "end_time": "2026-04-01T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-04-08T07:00:00",
+    "end_time": "2026-04-08T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-04-15T07:00:00",
+    "end_time": "2026-04-15T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S292",
+    "start_time": "2026-04-22T07:00:00",
+    "end_time": "2026-04-22T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-05-08T12:00:00",
+    "end_time": "2026-05-08T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-05-15T12:00:00",
+    "end_time": "2026-05-15T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-05-22T12:00:00",
+    "end_time": "2026-05-22T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-05-29T12:00:00",
+    "end_time": "2026-05-29T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-06-05T12:00:00",
+    "end_time": "2026-06-05T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S750",
+    "start_time": "2026-06-12T12:00:00",
+    "end_time": "2026-06-12T13:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 584,
+        "name": "R-IT 3 UN - UP IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-05-06T07:00:00",
+    "end_time": "2026-05-06T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-05-13T07:00:00",
+    "end_time": "2026-05-13T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-05-20T07:00:00",
+    "end_time": "2026-05-20T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-05-27T07:00:00",
+    "end_time": "2026-05-27T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-06-03T07:00:00",
+    "end_time": "2026-06-03T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S751",
+    "start_time": "2026-06-10T07:00:00",
+    "end_time": "2026-06-10T09:00:00",
+    "courseId": "1445",
+    "course": "ALGORITMI IN TEHNIKE ZA UČINKOVITO REŠEVANJE PROBLEMOV",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 110,
+        "name": "BU20 UP3"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 18,
+        "name": "A-302"
+      }
+    ],
+    "groups": [
+      {
+        "id": 872,
+        "name": "R-IT 3 UN SV - 1. sk IPVB UP3"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 724,
+        "name": "DOMEN KAVRAN"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  }
+]

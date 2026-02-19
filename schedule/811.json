@@ -1,0 +1,610 @@
+[
+  {
+    "id": "S143",
+    "start_time": "2026-02-23T08:00:00",
+    "end_time": "2026-02-23T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-03-02T08:00:00",
+    "end_time": "2026-03-02T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-03-09T08:00:00",
+    "end_time": "2026-03-09T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-03-16T08:00:00",
+    "end_time": "2026-03-16T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-03-23T08:00:00",
+    "end_time": "2026-03-23T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-03-30T08:00:00",
+    "end_time": "2026-03-30T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-04-13T08:00:00",
+    "end_time": "2026-04-13T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S143",
+    "start_time": "2026-04-20T08:00:00",
+    "end_time": "2026-04-20T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S144",
+    "start_time": "2026-02-24T10:00:00",
+    "end_time": "2026-02-24T13:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 85,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 17,
+        "name": "A-301"
+      }
+    ],
+    "groups": [
+      {
+        "id": 840,
+        "name": "R-IT 2 UN SV - 1. sk UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 606,
+        "name": "MLADEN BOROVIČ"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S145",
+    "start_time": "2026-02-23T12:00:00",
+    "end_time": "2026-02-23T15:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "3",
+    "executionType": "SV",
+    "branches": [
+      {
+        "id": 85,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 115,
+        "name": "G2 - P.01"
+      }
+    ],
+    "groups": [
+      {
+        "id": 840,
+        "name": "R-IT 2 UN SV - 1. sk UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 606,
+        "name": "MLADEN BOROVIČ"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-05-04T08:00:00",
+    "end_time": "2026-05-04T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-05-11T08:00:00",
+    "end_time": "2026-05-11T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-05-18T08:00:00",
+    "end_time": "2026-05-18T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-05-25T08:00:00",
+    "end_time": "2026-05-25T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-06-01T08:00:00",
+    "end_time": "2026-06-01T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  },
+  {
+    "id": "S653",
+    "start_time": "2026-06-08T08:00:00",
+    "end_time": "2026-06-08T10:00:00",
+    "courseId": "811",
+    "course": "UMETNA INTELIGENCA",
+    "eventType": "",
+    "note": "",
+    "executionTypeId": "2",
+    "executionType": "PR",
+    "branches": [
+      {
+        "id": 87,
+        "name": "BU20"
+      }
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "A-306"
+      }
+    ],
+    "groups": [
+      {
+        "id": 81,
+        "name": "R-IT 2 UN - UP2"
+      }
+    ],
+    "lecturers": [
+      {
+        "id": 181,
+        "name": "DAMJAN STRNAD"
+      }
+    ],
+    "showLink": "",
+    "color": "",
+    "colorText": ""
+  }
+]
