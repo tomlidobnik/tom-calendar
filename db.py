@@ -138,7 +138,7 @@ def sync_events(fresh_events: list[CalendarEvent]) -> tuple[list[CalendarEvent],
     conn.close()
 
     logger.info(f"Sync complete: {len(created)} created, {len(updated)} updated, {len(removed_uids)} disabled.")
-    return created, updated
+    return created, updated, len(removed_uids)
 
 
 def is_empty():

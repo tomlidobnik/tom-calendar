@@ -49,10 +49,10 @@ def run_once():
 
     # 3. Sync to DB — detect new / changed / disabled
     empty_before = is_empty()
-    created, updated = sync_events(events)
+    created, updated, removed = sync_events(events)
 
     # 4. Push to Google Calendar only if there are changes
-    if empty_before or created or updated:
+    if empty_before or created or updated or removed:
         logger.info("Changes detected — syncing to Google Calendar...")
         sync_to_google(CALENDAR_ID, created, updated)
     else:
