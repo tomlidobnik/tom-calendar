@@ -1,4 +1,7 @@
 #!/bin/bash
+set -euo pipefail
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH"
+trap 'echo "❌ Script failed at line $LINENO: $BASH_COMMAND" >&2' ERR
 set -a; source "$(dirname "$0")/.env"; set +a
 mkdir -p schedule
 

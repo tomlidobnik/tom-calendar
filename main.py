@@ -30,7 +30,11 @@ def fetch_schedules():
         text=True,
     )
     if result.returncode != 0:
-        logger.error(f"get_calendar.sh failed:\n{result.stderr}")
+        logger.error(f"get_calendar.sh failed (exit {result.returncode}):")
+        if result.stdout:
+            logger.error(f"stdout: {result.stdout.strip()}")
+        if result.stderr:
+            logger.error(f"stderr: {result.stderr.strip()}")
         return False
     logger.info("✅ Schedules downloaded.")
     return True
